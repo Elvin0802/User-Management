@@ -1,0 +1,769 @@
+[
+  {
+    "Name": "Baku"
+  },
+  {
+    "Name": "Sumqayıt"
+
+  },
+  {
+    "Name": "Gəncə"
+
+  },
+  {
+    "Name": "Ağcabədi"
+
+  },
+  {
+    "Name": "Mingəçevir"
+
+  },
+  {
+    "Name": "Xırdalan"
+
+  },
+  {
+    "Name": "Naxçıvan"
+  },
+  {
+    "Name": "Şatrovka"
+  },
+  {
+    "Name": "Qaraçuxur"
+  },
+  {
+    "Name": "Hövsan"
+  },
+  {
+    "Name": "Bakıxanov"
+  },
+  {
+    "Name": "Şirvan"
+  },
+  {
+    "Name": "Şəki"
+  },
+  {
+    "Name": "Yevlax"
+  },
+  {
+    "Name": "M.Ə. Rəsulzadə"
+  },
+  {
+    "Name": "Lənkəran"
+  },
+  {
+    "Name": "Xankəndi"
+  },
+  {
+    "Name": "Biləcəri"
+  },
+  {
+    "Name": "Maştağa"
+  },
+  {
+    "Name": "Şəmkir"
+  },
+  {
+    "Name": "Xaçmaz"
+  },
+  {
+    "Name": "Şamaxı"
+  },
+  {
+    "Name": "Bərdə"
+  },
+  {
+    "Name": "Quba"
+  },
+  {
+    "Name": "Göygöl"
+  },
+  {
+    "Name": "Binəqədi"
+  },
+  {
+    "Name": "Göyçay"
+  },
+  {
+    "Name": "Lökbatan"
+  },
+  {
+    "Name": "Qazax"
+  },
+  {
+    "Name": "Buzovna"
+  },
+  {
+    "Name": "İmişli"
+  },
+  {
+    "Name": "Zaqatala"
+  },
+  {
+    "Name": "Sabirabad"
+  },
+  {
+    "Name": "Salyan"
+  },
+  {
+    "Name": "Ağdaş"
+  },
+  {
+    "Name": "Əmircan"
+  },
+  {
+    "Name": "Hacıqabul"
+  },
+  {
+    "Name": "Binə"
+  },
+  {
+    "Name": "Cəlilabad"
+  },
+  {
+    "Name": "Keşlə"
+  },
+  {
+    "Name": "Mərdəkan"
+  },
+  {
+    "Name": "Zabrat"
+  },
+  {
+    "Name": "Sabunçu"
+  },
+  {
+    "Name": "Sahil"
+  },
+  {
+    "Name": "Hacı Zeynalabdin"
+  },
+  {
+    "Name": "İsmayıllı"
+  },
+  {
+    "Name": "Ağsu"
+  },
+  {
+    "Name": "Ağstafa"
+  },
+  {
+    "Name": "Biləsuvar"
+  },
+  {
+    "Name": "Siyəzən"
+  },
+  {
+    "Name": "Saatlı"
+  },
+  {
+    "Name": "Bülbülə"
+  },
+  {
+    "Name": "Hindarx"
+  },
+  {
+    "Name": "Astara"
+  },
+  {
+    "Name": "Qusar"
+  },
+  {
+    "Name": "Yeni Suraxanı"
+  },
+  {
+    "Name": "Qazyan"
+  },
+  {
+    "Name": "Ərkivan"
+  },
+  {
+    "Name": "Kürdəmir"
+  },
+  {
+    "Name": "Şüvəlan"
+  },
+  {
+    "Name": "Masallı"
+  },
+  {
+    "Name": "Qobustan"
+  },
+  {
+    "Name": "Ucar"
+  },
+  {
+    "Name": "Neftçala"
+  },
+  {
+    "Name": "Nehrəm"
+  },
+  {
+    "Name": "Pirallahı"
+  },
+  {
+    "Name": "Tovuz"
+  },
+  {
+    "Name": "Baş Göynük"
+  },
+  {
+    "Name": "Quzanlı"
+  },
+  {
+    "Name": "Corat"
+  },
+  {
+    "Name": "Qazmalar"
+  },
+  {
+    "Name": "Ələt"
+  },
+  {
+    "Name": "Tərtər"
+  },
+  {
+    "Name": "Culfa"
+  },
+  {
+    "Name": "Beyləqan"
+  },
+  {
+    "Name": "Badamdar"
+  },
+  {
+    "Name": "Balaxanı"
+  },
+  {
+    "Name": "Liman"
+  },
+  {
+    "Name": "Qax"
+  },
+  {
+    "Name": "Zirə"
+  },
+  {
+    "Name": "Əhmədli"
+  },
+  {
+    "Name": "Xudat"
+  },
+  {
+    "Name": "Əliabad"
+  },
+  {
+    "Name": "Saray"
+  },
+  {
+    "Name": "Daşkəsən"
+  },
+  {
+    "Name": "Ordubad"
+  },
+  {
+    "Name": "Samux"
+  },
+  {
+    "Name": "Qovlar"
+  },
+  {
+    "Name": "Türkan"
+  },
+  {
+    "Name": "Naftalan"
+  },
+  {
+    "Name": "Göytəpə"
+  },
+  {
+    "Name": "Boladı"
+  },
+  {
+    "Name": "Sədərək"
+  },
+  {
+    "Name": "Gədəbəy"
+  },
+  {
+    "Name": "Zərdab"
+  },
+  {
+    "Name": "Nardaran"
+  },
+  {
+    "Name": "Bilgəh"
+  },
+  {
+    "Name": "Yarlı"
+  },
+  {
+    "Name": "Ərçivan"
+  },
+  {
+    "Name": "Zəyəm"
+  },
+  {
+    "Name": "Qalağayın"
+  },
+  {
+    "Name": "Yardımlı"
+  },
+  {
+    "Name": "Mahmudavar"
+  },
+  {
+    "Name": "Zəyəm Cırdaxan"
+  },
+  {
+    "Name": "Düyərli"
+  },
+  {
+    "Name": "Goranboy"
+  },
+  {
+    "Name": "Lerik"
+  },
+  {
+    "Name": "Oğuz"
+  },
+  {
+    "Name": "Xaçmaz"
+  },
+  {
+    "Name": "Kür"
+  },
+  {
+    "Name": "Alar"
+  },
+  {
+    "Name": "Xındırıstan"
+  },
+  {
+    "Name": "Kürdəxanı"
+  },
+  {
+    "Name": "Osakücə"
+  },
+  {
+    "Name": "Kiş"
+  },
+  {
+    "Name": "Aşağı Seyfəli"
+  },
+  {
+    "Name": "Uzuntəpə"
+  },
+  {
+    "Name": "Cəbrayıl"
+  },
+  {
+    "Name": "Təzə Alvadı"
+  },
+  {
+    "Name": "Ceyranbatan"
+  },
+  {
+    "Name": "Abulbəyli"
+  },
+  {
+    "Name": "Zığ"
+  },
+  {
+    "Name": "Bığır"
+  },
+  {
+    "Name": "Keçili"
+  },
+  {
+    "Name": "Xocavənd"
+  },
+  {
+    "Name": "Babək"
+  },
+  {
+    "Name": "Boradigah"
+  },
+  {
+    "Name": "Gərmətük"
+  },
+  {
+    "Name": "Dəliməmmədli"
+  },
+  {
+    "Name": "Ləkçılpaq"
+  },
+  {
+    "Name": "Şiştəpə"
+  },
+  {
+    "Name": "Qaracəmirli"
+  },
+  {
+    "Name": "Qızılağac"
+  },
+  {
+    "Name": "Xocəsən"
+  },
+  {
+    "Name": "Dəllər Cəyir"
+  },
+  {
+    "Name": "Nərimanabad"
+  },
+  {
+    "Name": "Qaradağlı"
+  },
+  {
+    "Name": "Pirşağı"
+  },
+  {
+    "Name": "Şiyəkəran"
+  },
+  {
+    "Name": "Pensər"
+  },
+  {
+    "Name": "Təzəkənd"
+  },
+  {
+    "Name": "Girdəni"
+  },
+  {
+    "Name": "Lənbəran"
+  },
+  {
+    "Name": "Sabirkənd"
+  },
+  {
+    "Name": "Ağdərə"
+  },
+  {
+    "Name": "Novxanı"
+  },
+  {
+    "Name": "Hökməli"
+  },
+  {
+    "Name": "Şuşa"
+  },
+  {
+    "Name": "Qıvraq"
+  },
+  {
+    "Name": "Kijəbə"
+  },
+  {
+    "Name": "Mamusta"
+  },
+  {
+    "Name": "Vilvan"
+  },
+  {
+    "Name": "Zəngişalı"
+  },
+  {
+    "Name": "Şahağac"
+  },
+  {
+    "Name": "Dəllər"
+  },
+  {
+    "Name": "Privolnoye"
+  },
+  {
+    "Name": "Dadva"
+  },
+  {
+    "Name": "Şağlasər"
+  },
+  {
+    "Name": "Hadrut"
+  },
+  {
+    "Name": "Ocaqlı"
+  },
+  {
+    "Name": "Könüllü"
+  },
+  {
+    "Name": "İrmaşlı"
+  },
+  {
+    "Name": "Qobustan"
+  },
+  {
+    "Name": "Şağlakücə"
+  },
+  {
+    "Name": "Qarağac"
+  },
+  {
+    "Name": "Xıl"
+  },
+  {
+    "Name": "Ağdam"
+  },
+  {
+    "Name": "Sütəmurdov"
+  },
+  {
+    "Name": "Xırmandalı"
+  },
+  {
+    "Name": "Dəllər Cırdaxan"
+  },
+  {
+    "Name": "Çinarlı"
+  },
+  {
+    "Name": "Digah"
+  },
+  {
+    "Name": "İnçə"
+  },
+  {
+    "Name": "Sabirabad"
+  },
+  {
+    "Name": "Potu"
+  },
+  {
+    "Name": "Maşlıq"
+  },
+  {
+    "Name": "Kakalos"
+  },
+  {
+    "Name": "Köhnə Alvadı"
+  },
+  {
+    "Name": "Çərəkə"
+  },
+  {
+    "Name": "Viravul"
+  },
+  {
+    "Name": "Mərzili"
+  },
+  {
+    "Name": "Musakücə"
+  },
+  {
+    "Name": "İvanovka"
+  },
+  {
+    "Name": "Təngərüd"
+  },
+  {
+    "Name": "Masazır"
+  },
+  {
+    "Name": "Aşağı Nüvədi"
+  },
+  {
+    "Name": "Göyəçöl"
+  },
+  {
+    "Name": "Şağan"
+  },
+  {
+    "Name": "Separadi"
+  },
+  {
+    "Name": "Əlimərdanlı"
+  },
+  {
+    "Name": "Muxtariyyat"
+  },
+  {
+    "Name": "Caxırlı"
+  },
+  {
+    "Name": "Kətəlparaq"
+  },
+  {
+    "Name": "Digah"
+  },
+  {
+    "Name": "Göyşaban"
+  },
+  {
+    "Name": "Müşkür"
+  },
+  {
+    "Name": "Kərgəlan"
+  },
+  {
+    "Name": "Qaravəlli"
+  },
+  {
+    "Name": "Abbaslı"
+  },
+  {
+    "Name": "Şıxakəran"
+  },
+  {
+    "Name": "Yenikənd"
+  },
+  {
+    "Name": "Qala"
+  },
+  {
+    "Name": "Məmmədli"
+  },
+  {
+    "Name": "Aşağı Güzdək"
+  },
+  {
+    "Name": "Qapanlı"
+  },
+  {
+    "Name": "Yuxarı Qaramanlı"
+  },
+  {
+    "Name": "Qaraçuq"
+  },
+  {
+    "Name": "Türkoba"
+  },
+  {
+    "Name": "Komanlı"
+  },
+  {
+    "Name": "Haftoni"
+  },
+  {
+    "Name": "Bayramlı"
+  },
+  {
+    "Name": "Sulutəpə"
+  },
+  {
+    "Name": "Viyən"
+  },
+  {
+    "Name": "Mustafaağalı"
+  },
+  {
+    "Name": "Mollalı"
+  },
+  {
+    "Name": "Əhmədağalı"
+  },
+  {
+    "Name": "Üçoğlan"
+  },
+  {
+    "Name": "Əlibəyli"
+  },
+  {
+    "Name": "Həsənli"
+  },
+  {
+    "Name": "Hişkədərə"
+  },
+  {
+    "Name": "Əliqasımlı"
+  },
+  {
+    "Name": "Təzəkənd"
+  },
+  {
+    "Name": "Maşxan"
+  },
+  {
+    "Name": "Tatarlı"
+  },
+  {
+    "Name": "Qasım İsmayılov"
+  },
+  {
+    "Name": "Amsar"
+  },
+  {
+    "Name": "Zövlə"
+  },
+  {
+    "Name": "Urva"
+  },
+  {
+    "Name": "Qarabaqqal"
+  },
+  {
+    "Name": "Balıqçılar"
+  },
+  {
+    "Name": "Qaraxanbəyli"
+  },
+  {
+    "Name": "Güllütəpə"
+  },
+  {
+    "Name": "İsgəndərli"
+  },
+  {
+    "Name": "Ağdaş"
+  },
+  {
+    "Name": "Qubaxəlilli"
+  },
+  {
+    "Name": "Digah"
+  },
+  {
+    "Name": "Mırtı"
+  },
+  {
+    "Name": "Xolmili"
+  },
+  {
+    "Name": "Əfətli"
+  },
+  {
+    "Name": "Bəcirəvan"
+  },
+  {
+    "Name": "Hacıqəhrəmanlı"
+  },
+  {
+    "Name": "Gəndov"
+  },
+  {
+    "Name": "Banbaşı"
+  },
+  {
+    "Name": "Şiləvar"
+  },
+  {
+    "Name": "Şahbuz"
+  },
+  {
+    "Name": "Laçın"
+  },
+  {
+    "Name": "Heydərabad"
+  },
+  {
+    "Name": "Balakən"
+  },
+  {
+    "Name": "Xızı"
+  },
+  {
+    "Name": "Xocalı"
+  },
+  {
+    "Name": "Qubadlı"
+  },
+  {
+    "Name": "Kəlbəcər"
+  },
+  {
+    "Name": "Qəbələ"
+  },
+  {
+    "Name": "Dəvəçi"
+  }
+]

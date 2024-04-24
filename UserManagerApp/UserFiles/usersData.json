@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Elvin",
+    "Surname": "Sirajli",
+    "City": "Baku",
+    "Gender": true,
+    "StudyInStep": true
+  },
+  {
+    "Name": "Ali",
+    "Surname": "Aliyev",
+    "City": "Baku",
+    "Gender": true,
+    "StudyInStep": false
+  },
+  {
+    "Name": "Semed",
+    "Surname": "Yochuyev",
+    "City": "Baku",
+    "Gender": true,
+    "StudyInStep": true
+  }
+]
